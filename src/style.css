@@ -1,0 +1,33 @@
+.comments {
+    width: 700px;
+    margin: auto;
+}
+
+.header {
+    text-align: center;
+    font-size: 25px;
+    padding: 10px 0;
+    border-bottom: solid 1px lightgrey;
+}
+
+.content {
+    font-size: 20px;
+    padding: 10px 0;
+    border-bottom: solid 1px palegoldenrod;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.comment {
+    flex: 1;
+    padding-left: 10px;
+}
+
+.name {
+    color: brown;
+}
+
+.email {
+    color: blue;
+}
